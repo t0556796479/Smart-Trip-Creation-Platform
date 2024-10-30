@@ -1,0 +1,85 @@
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.deps.json
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.runtimeconfig.json
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.dll
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.pdb
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Repository.dll
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Repository.pdb
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.csproj.AssemblyReference.cache
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.AssemblyInfoInputs.cache
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.AssemblyInfo.cs
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.csproj.CoreCompileInputs.cache
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.csproj.CopyComplete
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.dll
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\refint\MyProject.Model.dll
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.pdb
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.genruntimeconfig.cache
+E:\סירוקה\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\ref\MyProject.Model.dll
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.deps.json
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.runtimeconfig.json
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.dll
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.pdb
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.dll
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\refint\MyProject.Model.dll
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.pdb
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\WebApplication1\MyProject.Model\obj\Debug\net7.0\ref\MyProject.Model.dll
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.deps.json
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.runtimeconfig.json
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.dll
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.pdb
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Repository.dll
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Repository.pdb
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.dll
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\obj\Debug\net7.0\refint\MyProject.Model.dll
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.pdb
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\תמר עזרא\פרויקט טיולים\‏‏תיקיה חדשה\WebApplication1\MyProject.Model\obj\Debug\net7.0\ref\MyProject.Model.dll
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.deps.json
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.runtimeconfig.json
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.dll
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.pdb
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Repository.dll
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Repository.pdb
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.csproj.AssemblyReference.cache
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.AssemblyInfoInputs.cache
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.AssemblyInfo.cs
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.csproj.CoreCompileInputs.cache
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.csproj.CopyComplete
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.dll
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\refint\MyProject.Model.dll
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.pdb
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.genruntimeconfig.cache
+E:\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\ref\MyProject.Model.dll
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.deps.json
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.runtimeconfig.json
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.dll
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Model.pdb
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Repository.dll
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\bin\Debug\net7.0\MyProject.Repository.pdb
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProjec.43072381.Up2Date
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.dll
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\refint\MyProject.Model.dll
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.pdb
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\MyProject.Model.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקט טיולים\server c#\WebApplication1\MyProject.Model\obj\Debug\net7.0\ref\MyProject.Model.dll

@@ -1,0 +1,873 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94EE6CD3-8241-4598-AA29-D517D378F8C2}|MyProject.Model\\MyProject.Model.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.model\\mydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94EE6CD3-8241-4598-AA29-D517D378F8C2}|MyProject.Model\\MyProject.Model.csproj|solutionrelative:myproject.model\\mydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.service\\services\\algorithemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|solutionrelative:myproject.service\\services\\algorithemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\webapplication1\\controllers\\algorithemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\algorithemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\interfaces\\itripobjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\interfaces\\itripobjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.service\\interfaces\\itripobjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|solutionrelative:myproject.service\\interfaces\\itripobjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.service\\services\\tripobjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|solutionrelative:myproject.service\\services\\tripobjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\webapplication1\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.common\\entities\\algorithemrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|solutionrelative:myproject.common\\entities\\algorithemrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.common\\entities\\agendastepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|solutionrelative:myproject.common\\entities\\agendastepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\entities\\tripobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\entities\\tripobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.service\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|solutionrelative:myproject.service\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|solutionrelative:myproject.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.common\\entities\\tripobjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|solutionrelative:myproject.common\\entities\\tripobjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.service\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|solutionrelative:myproject.service\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.service\\services\\propertiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|solutionrelative:myproject.service\\services\\propertiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.service\\interfaces\\ipropertiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|solutionrelative:myproject.service\\interfaces\\ipropertiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.service\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|solutionrelative:myproject.service\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\webapplication1\\controllers\\tripobjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\tripobjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\repositories\\tripobjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\repositories\\tripobjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\entities\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\entities\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\repositories\\areasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\repositories\\areasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\webapplication1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.common\\entities\\googlemapsapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|solutionrelative:myproject.common\\entities\\googlemapsapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.service\\services\\filtersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|solutionrelative:myproject.service\\services\\filtersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.common\\entities\\propertiesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|solutionrelative:myproject.common\\entities\\propertiesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.common\\entities\\areasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|solutionrelative:myproject.common\\entities\\areasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\repositories\\propertiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\repositories\\propertiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\interfaces\\ifiltersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\interfaces\\ifiltersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\repositories\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\repositories\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\repositories\\filtersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\repositories\\filtersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.service\\interfaces\\ifiltersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|solutionrelative:myproject.service\\interfaces\\ifiltersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|solutionrelative:myproject.service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.service\\services\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4851D6-3D55-48A3-859D-232C2D9B008E}|MyProject.Service\\MyProject.Service.csproj|solutionrelative:myproject.service\\services\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\webapplication1\\controllers\\filterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\filterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\webapplication1\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\entities\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\entities\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.common\\entities\\categoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|solutionrelative:myproject.common\\entities\\categoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\entities\\areas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\entities\\areas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.common\\entities\\propertyfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|solutionrelative:myproject.common\\entities\\propertyfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\interfaces\\ipropertiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\interfaces\\ipropertiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.common\\entities\\filtersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|solutionrelative:myproject.common\\entities\\filtersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.repository\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031A0C4D-CEF7-4E5E-9AF2-66B33F646E75}|MyProject.Repository\\MyProject.Repository.csproj|solutionrelative:myproject.repository\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{933FF35F-5364-4BDB-9610-2ED4F57D7BBF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\webapplication1\\myproject.common\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97835515-8661-4B48-8557-236FEEABD582}|MyProject.Common\\MyProject.Common.csproj|solutionrelative:myproject.common\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 302,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlgorithemService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Services\\AlgorithemService.cs",
+              "RelativeDocumentMoniker": "MyProject.Service\\Services\\AlgorithemService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Services\\AlgorithemService.cs",
+              "RelativeToolTip": "MyProject.Service\\Services\\AlgorithemService.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAArwNAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:55:20.852Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITripObjectService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Interfaces\\ITripObjectService.cs",
+              "RelativeDocumentMoniker": "MyProject.Service\\Interfaces\\ITripObjectService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Interfaces\\ITripObjectService.cs",
+              "RelativeToolTip": "MyProject.Service\\Interfaces\\ITripObjectService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:38:23.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Properties.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Entities\\Properties.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Entities\\Properties.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Entities\\Properties.cs",
+              "RelativeToolTip": "MyProject.Repository\\Entities\\Properties.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:24:57.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "MyProject.Service\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\MapperProfile.cs",
+              "RelativeToolTip": "MyProject.Service\\MapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:54:19.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPropertiesService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Interfaces\\IPropertiesService.cs",
+              "RelativeDocumentMoniker": "MyProject.Service\\Interfaces\\IPropertiesService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Interfaces\\IPropertiesService.cs",
+              "RelativeToolTip": "MyProject.Service\\Interfaces\\IPropertiesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:11:23.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlgorithemController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Controllers\\AlgorithemController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AlgorithemController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Controllers\\AlgorithemController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AlgorithemController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:08:51.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TripObject.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Entities\\TripObject.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Entities\\TripObject.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Entities\\TripObject.cs",
+              "RelativeToolTip": "MyProject.Repository\\Entities\\TripObject.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:37:18.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Model\\MyDataContext.cs",
+              "RelativeDocumentMoniker": "MyProject.Model\\MyDataContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Model\\MyDataContext.cs",
+              "RelativeToolTip": "MyProject.Model\\MyDataContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:00:44.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITripObjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Interfaces\\ITripObjectRepository.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Interfaces\\ITripObjectRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Interfaces\\ITripObjectRepository.cs",
+              "RelativeToolTip": "MyProject.Repository\\Interfaces\\ITripObjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:38:13.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgendaStepDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\AgendaStepDto.cs",
+              "RelativeDocumentMoniker": "MyProject.Common\\Entities\\AgendaStepDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\AgendaStepDto.cs",
+              "RelativeToolTip": "MyProject.Common\\Entities\\AgendaStepDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:14:46.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AreasController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Controllers\\AreasController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AreasController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Controllers\\AreasController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AreasController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:09:45.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TripObjectService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Services\\TripObjectService.cs",
+              "RelativeDocumentMoniker": "MyProject.Service\\Services\\TripObjectService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Services\\TripObjectService.cs",
+              "RelativeToolTip": "MyProject.Service\\Services\\TripObjectService.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAA4wE8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:51:20.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlgorithemRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\AlgorithemRequestDto.cs",
+              "RelativeDocumentMoniker": "MyProject.Common\\Entities\\AlgorithemRequestDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\AlgorithemRequestDto.cs",
+              "RelativeToolTip": "MyProject.Common\\Entities\\AlgorithemRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:15:19.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "MyProject.Service\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Interfaces\\IService.cs",
+              "RelativeToolTip": "MyProject.Service\\Interfaces\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:11:23.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "MyProject.Repository\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:52:30.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MyProject.Service\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Services\\UserService.cs",
+              "RelativeToolTip": "MyProject.Service\\Services\\UserService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:09:40.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "MyProject.Service\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "MyProject.Service\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:54:34.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TripObjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\TripObjectDto.cs",
+              "RelativeDocumentMoniker": "MyProject.Common\\Entities\\TripObjectDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\TripObjectDto.cs",
+              "RelativeToolTip": "MyProject.Common\\Entities\\TripObjectDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:36:59.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TripObjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Repositories\\TripObjectRepository.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Repositories\\TripObjectRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Repositories\\TripObjectRepository.cs",
+              "RelativeToolTip": "MyProject.Repository\\Repositories\\TripObjectRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwC4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:11:35.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PropertiesService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Services\\PropertiesService.cs",
+              "RelativeDocumentMoniker": "MyProject.Service\\Services\\PropertiesService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Services\\PropertiesService.cs",
+              "RelativeToolTip": "MyProject.Service\\Services\\PropertiesService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:14:18.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswEEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:19:36.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wBcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:09:45.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GoogleMapsApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\GoogleMapsApiResponse.cs",
+              "RelativeDocumentMoniker": "MyProject.Common\\Entities\\GoogleMapsApiResponse.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\GoogleMapsApiResponse.cs",
+              "RelativeToolTip": "MyProject.Common\\Entities\\GoogleMapsApiResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:09:43.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TripObjectController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Controllers\\TripObjectController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TripObjectController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Controllers\\TripObjectController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\TripObjectController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAEwCcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:42:41.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AreasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Repositories\\AreasRepository.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Repositories\\AreasRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Repositories\\AreasRepository.cs",
+              "RelativeToolTip": "MyProject.Repository\\Repositories\\AreasRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:59:01.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FiltersService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Services\\FiltersService.cs",
+              "RelativeDocumentMoniker": "MyProject.Service\\Services\\FiltersService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Services\\FiltersService.cs",
+              "RelativeToolTip": "MyProject.Service\\Services\\FiltersService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:55:27.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "MyProject.Repository\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:36:05.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Interfaces\\IContext.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Interfaces\\IContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Interfaces\\IContext.cs",
+              "RelativeToolTip": "MyProject.Repository\\Interfaces\\IContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:32:17.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PropertiesDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\PropertiesDto.cs",
+              "RelativeDocumentMoniker": "MyProject.Common\\Entities\\PropertiesDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\PropertiesDto.cs",
+              "RelativeToolTip": "MyProject.Common\\Entities\\PropertiesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:05:33.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:14:21.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AreasDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\AreasDto.cs",
+              "RelativeDocumentMoniker": "MyProject.Common\\Entities\\AreasDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\AreasDto.cs",
+              "RelativeToolTip": "MyProject.Common\\Entities\\AreasDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:05:28.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "MyProject.Repository\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:38:04.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IFiltersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Interfaces\\IFiltersRepository.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Interfaces\\IFiltersRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Interfaces\\IFiltersRepository.cs",
+              "RelativeToolTip": "MyProject.Repository\\Interfaces\\IFiltersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:40:41.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Repositories\\CategoriesRepository.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Repositories\\CategoriesRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Repositories\\CategoriesRepository.cs",
+              "RelativeToolTip": "MyProject.Repository\\Repositories\\CategoriesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:58:43.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FiltersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Repositories\\FiltersRepository.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Repositories\\FiltersRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Repositories\\FiltersRepository.cs",
+              "RelativeToolTip": "MyProject.Repository\\Repositories\\FiltersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:03:02.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PropertiesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Repositories\\PropertiesRepository.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Repositories\\PropertiesRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Repositories\\PropertiesRepository.cs",
+              "RelativeToolTip": "MyProject.Repository\\Repositories\\PropertiesRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAEwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:15:47.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IFiltersService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Interfaces\\IFiltersService.cs",
+              "RelativeDocumentMoniker": "MyProject.Service\\Interfaces\\IFiltersService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Interfaces\\IFiltersService.cs",
+              "RelativeToolTip": "MyProject.Service\\Interfaces\\IFiltersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:14:38.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Interfaces\\ILoginService.cs",
+              "RelativeDocumentMoniker": "MyProject.Service\\Interfaces\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Interfaces\\ILoginService.cs",
+              "RelativeToolTip": "MyProject.Service\\Interfaces\\ILoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:48:17.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CategoriesService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Services\\CategoriesService.cs",
+              "RelativeDocumentMoniker": "MyProject.Service\\Services\\CategoriesService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Service\\Services\\CategoriesService.cs",
+              "RelativeToolTip": "MyProject.Service\\Services\\CategoriesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:08:54.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FiltersController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Controllers\\FiltersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\FiltersController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Controllers\\FiltersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\FiltersController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA3wCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:09:50.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Filters.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Entities\\Filters.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Entities\\Filters.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Entities\\Filters.cs",
+              "RelativeToolTip": "MyProject.Repository\\Entities\\Filters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:39:28.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PropertiesController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Controllers\\PropertiesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PropertiesController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\Controllers\\PropertiesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PropertiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:45:29.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T12:10:21.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Entities\\Categories.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Entities\\Categories.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Entities\\Categories.cs",
+              "RelativeToolTip": "MyProject.Repository\\Entities\\Categories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:28:35.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CategoriesDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\CategoriesDto.cs",
+              "RelativeDocumentMoniker": "MyProject.Common\\Entities\\CategoriesDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\CategoriesDto.cs",
+              "RelativeToolTip": "MyProject.Common\\Entities\\CategoriesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:05:30.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Areas.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Entities\\Areas.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Entities\\Areas.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Entities\\Areas.cs",
+              "RelativeToolTip": "MyProject.Repository\\Entities\\Areas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:41:41.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PropertyFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\PropertyFilterDto.cs",
+              "RelativeDocumentMoniker": "MyProject.Common\\Entities\\PropertyFilterDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\PropertyFilterDto.cs",
+              "RelativeToolTip": "MyProject.Common\\Entities\\PropertyFilterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:51:22.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IPropertiesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Interfaces\\IPropertiesRepository.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Interfaces\\IPropertiesRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Interfaces\\IPropertiesRepository.cs",
+              "RelativeToolTip": "MyProject.Repository\\Interfaces\\IPropertiesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:47:35.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FiltersDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\FiltersDto.cs",
+              "RelativeDocumentMoniker": "MyProject.Common\\Entities\\FiltersDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\FiltersDto.cs",
+              "RelativeToolTip": "MyProject.Common\\Entities\\FiltersDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:05:32.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Interfaces\\ILogin.cs",
+              "RelativeDocumentMoniker": "MyProject.Repository\\Interfaces\\ILogin.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Repository\\Interfaces\\ILogin.cs",
+              "RelativeToolTip": "MyProject.Repository\\Interfaces\\ILogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:38:01.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-11T20:07:23.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T12:05:44.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\UserDto.cs",
+              "RelativeDocumentMoniker": "MyProject.Common\\Entities\\UserDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC\u05D9\u05DD\\server c#\\WebApplication1\\MyProject.Common\\Entities\\UserDto.cs",
+              "RelativeToolTip": "MyProject.Common\\Entities\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:05:35.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
